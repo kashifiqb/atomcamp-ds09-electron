@@ -2,6 +2,17 @@
 
 The Excel Portfolio project utilizes ECommerce dataset to analyze it for different type of queries. The dataset can be downloaded from this link.
 
+## Excel Functions used
+
+This project utilizes Ecommerce Dataset and uses different Excel functions such as:
+ - IF
+ - VLookup
+ - Pivot Tables
+ - SUM
+ - Unique
+and many others.
+
+
 ## Queries against the dataset
 
 This project utilized the ECommerce dataset against the following queries.

@@ -4,14 +4,11 @@ Here, you will find information about my projects that I have worked on being pa
 
 ## Portfolio Projects
 
-### Excel Portfolio Project
-This project utilizes Ecommerce Dataset and uses different Excel functions such as:
- - IF
- - VLookup
- - Pivot Tables
- - SUM
- - Unique
-and many others.
+Project | Navigation Link
+--------- | -----------
+Excel Portfolio Project | Browse the [Excel Portfolio Project](https://github.com/kashifiqb/atomcamp-ds09-electron/tree/master/excel_portfolio_project)
+SQL Portfolio Project | Coming Soon.
 
-### SQL Protfolio Project
- - Coming Soon
+## Projects Datasets
+ - [Excel Portfolio Project Dataset](https://github.com/kashifiqb/atomcamp-ds09-electron/tree/master/excel_portfolio_project/files)
+ - [SQL Portfolio Project Dataset](https://github.com/kashifiqb/atomcamp-ds09-electron/tree/master/sql_portfolio_project/files)
